@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/SarriElek/Javascript_PostgreSQL#readme",
   "dependencies": {
+    "knex": "^0.12.9",
+    "moment": "^2.18.1",
     "pg": "^6.1.5"
   }
 }
